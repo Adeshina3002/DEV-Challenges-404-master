@@ -6,12 +6,9 @@
   box-sizing: border-box;
 }
 
-body {
-  width: 480px;
-}
-
 .conteiner {
   background-color: #fff;
+  max-width: 480px;
 }
 
 .http-error {
