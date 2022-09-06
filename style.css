@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500;700&family=Space+Mono:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 480px;
+}
+
+.conteiner {
+  background-color: #fff;
+}
+
+.http-error {
+  font-family: "Inconsolata";
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-left: 24px;
+  margin-bottom: 64px;
+}
+
+.http-error h2 {
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: 0.008em;
+  width: 193px;
+}
+
+.content-image {
+  margin-bottom: 77.65px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 286.83px;
+}
+
+.main-content {
+  margin-left: 24px;
+}
+
+.content-texts {
+  font-family: "Space Mono";
+  font-weight: 700;
+}
+
+.title {
+  font-size: 48px;
+  line-height: 71px;
+  letter-spacing: 0.035em;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.content-paragraph {
+  width: 328px;
+  height: 81px;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4f4f4f;
+  letter-spacing: 0.035em;
+  margin-bottom: 66px;
+}
+
+.btn a {
+  padding: 24px 43px;
+  width: 216px;
+  height: 68px;
+  background-color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.btn a:hover {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+}
+
+footer {
+  width: 287px;
+  height: 17px;
+  margin-left: 46px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #bdbdbd;
+  margin: 114px 42px 24px 46px;
+}
+
+span {
+    font-weight: 700;
+}
